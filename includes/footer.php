@@ -10,7 +10,7 @@
 						<a href="index.php"><img src="assets/images/header-logo.png" alt="logo"></a>
 					</div>
 					<div class="footer-discription">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Transforming Visions into Reality with Zatonix.</p>
 					</div>
 					<div class="footer-widget-social">
 						<ul>
@@ -61,7 +61,7 @@
 		<div class="row footer-bottom">
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-left">
-					<p><b>© Copyright 2024 by Sass</b></p>
+					<p><b>© Copyright 2024 by Zatonix</b></p>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6">

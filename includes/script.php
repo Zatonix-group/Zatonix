@@ -1,4 +1,3 @@
-
 <script src="assets/js/vendor/jquery-3.6.2.min.js"></script>
 
 <script src="assets/js/popper.min.js"></script>
@@ -32,3 +31,7 @@
 <script src="assets/js/theme.js"></script>
 
 <script src="assets/js/popup.js"></script>
+
+<script src="assets/js/slider.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>

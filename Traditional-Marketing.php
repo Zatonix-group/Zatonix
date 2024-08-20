@@ -21,10 +21,7 @@
                     <div class="about-content">
                         <div class="toptech-section-title text-left">
                             <h1>Traditional Marketing</h1>
-                            <p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan
-                                dolore. dummya ccumsan lacus dummy Accumsan dolore. Quis
-                                ip Accumsan lacus Accumsan lacdolore magna aliqua. dummya
-                                ccumsan lacus Accumsan dolore.</p>
+                            <p>Reach your audience through proven traditional marketing methods that resonate.</p>
                         </div>
                         <div class="about-lists">
                             <div class="about-list">
@@ -65,16 +62,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon.png" alt="icon">
+                            <img src="assets/images/resource/print advertising.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Print Advertising</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Create lasting impressions with visually compelling print ads that stand out.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -85,16 +80,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon2.png" alt="icon">
+                            <img src="assets/images/resource/advertisement.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Outdoor Advertising</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Command attention with high-visibility outdoor ads that make a lasting impact.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -105,16 +98,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon3.png" alt="icon">
+                            <img src="assets/images/resource/direct mail marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Direct Mail Marketing</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Engage customers directly with personalized direct mail that drives results.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -125,16 +116,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/advertisement.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Television and Radio Advertising</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Capture the attention of a broad audience with impactful TV and radio commercials.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -148,6 +137,64 @@
 
 
 
+    <input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
+						</div>
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
+					</div>
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+	</div>
 
 
     <!--==================================================-->

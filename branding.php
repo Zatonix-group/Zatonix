@@ -21,10 +21,7 @@
                     <div class="about-content">
                         <div class="toptech-section-title text-left">
                             <h1>Branding</h1>
-                            <p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan
-                                dolore. dummya ccumsan lacus dummy Accumsan dolore. Quis
-                                ip Accumsan lacus Accumsan lacdolore magna aliqua. dummya
-                                ccumsan lacus Accumsan dolore.</p>
+                            <p>Define and strengthen your brand’s identity with a strategic approach to branding.</p>
                         </div>
                         <div class="about-lists">
                             <div class="about-list">
@@ -66,16 +63,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon.png" alt="icon">
+                            <img src="assets/images/resource/sele strategy.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Brand Strategy</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Lay the foundation for long-term success with a comprehensive brand strategy.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -86,16 +81,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon2.png" alt="icon">
+                            <img src="assets/images/resource/logo design.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Logo Design</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Make a powerful first impression with a logo that perfectly represents your brand.
+                                </p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -106,16 +100,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon3.png" alt="icon">
+                            <img src="assets/images/resource/branding_2974853.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Rebranding</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Revitalize your brand with a fresh new identity that reflects your evolution.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -126,16 +118,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/brand positioning.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Brand Positioning</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Position your brand in the market with clarity and distinction to stand out from
+                                    competitors.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -146,16 +137,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/branding identity development (1).png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Brand Identity Development</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Build a cohesive brand identity that resonates across all touchpoints.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -225,6 +214,64 @@
     <!-- END toptech brand-area -->
     <!--==================================================-->
 
+    <input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
+						</div>
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
+					</div>
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+	</div>
 
 
 

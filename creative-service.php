@@ -21,10 +21,8 @@
                     <div class="about-content">
                         <div class="toptech-section-title text-left">
                             <h1>Creative Service</h1>
-                            <p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan
-                                dolore. dummya ccumsan lacus dummy Accumsan dolore. Quis
-                                ip Accumsan lacus Accumsan lacdolore magna aliqua. dummya
-                                ccumsan lacus Accumsan dolore.</p>
+                            <p>Bring your vision to life with our innovative and visually stunning creative services.
+                            </p>
                         </div>
                         <div class="about-lists">
                             <div class="about-list">
@@ -67,16 +65,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon.png" alt="icon">
+                            <img src="assets/images/resource/graphic design.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Graphic Design</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Communicate your message with striking visuals crafted by expert graphic designers.
+                                </p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -87,16 +84,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon2.png" alt="icon">
+                            <img src="assets/images/resource/video production.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Video Production</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Tell your story through high-quality video content that captivates your audience.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -107,16 +102,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon3.png" alt="icon">
+                            <img src="assets/images/resource/photography.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Photography</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Capture the essence of your brand with professional photography that speaks volumes.
+                                </p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -127,16 +121,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/copywriting.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Copywriting</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Engage and persuade your audience with powerful, targeted copy.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -147,16 +139,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/motion graphic.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Motion Graphics</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Add dynamic visual appeal to your content with eye-catching motion graphics.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -167,16 +157,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/CGI ad_1130252.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>CGI Ads</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Immerse your audience in cutting-edge CGI ads that push creative boundaries.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -247,6 +235,64 @@
     <!--==================================================-->
 
 
+    <input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
+						</div>
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
+					</div>
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+	</div>
 
 
     <!--==================================================-->
@@ -362,5 +408,3 @@
 </body>
 
 </html>
-
-

@@ -21,10 +21,8 @@
                     <div class="about-content">
                         <div class="toptech-section-title text-left">
                             <h1>Digital Marketing</h1>
-                            <p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan
-                                dolore. dummya ccumsan lacus dummy Accumsan dolore. Quis
-                                ip Accumsan lacus Accumsan lacdolore magna aliqua. dummya
-                                ccumsan lacus Accumsan dolore.</p>
+                            <p>Elevate your brand with innovative digital strategies designed to engage and
+                                convert your audience.</p>
                         </div>
                         <div class="about-lists">
                             <div class="about-list">
@@ -69,16 +67,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon.png" alt="icon">
+                            <img src="assets/images/resource/digital marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Search Engine Optimization (SEO)</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Boost your online visibility and rank higher on search engines with expert SEO
+                                    techniques.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -89,16 +86,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon2.png" alt="icon">
+                            <img src="assets/images/resource/Pay-Per-Click.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Pay-Per-Click Advertising (PPC)</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Maximize your ROI with targeted PPC campaigns that deliver instant traffic and
+                                    conversions.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -109,16 +105,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon3.png" alt="icon">
+                            <img src="assets/images/resource/social media marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Social Media Marketing (SMM)</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Engage your audience and grow your brand with dynamic social media strategies.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -129,16 +123,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/content creation.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Content Marketing</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Attract and retain customers through compelling content that informs and inspires.
+                                </p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -149,16 +142,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/email marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Email Marketing</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Connect directly with your audience through personalized email campaigns that drive
+                                    action.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -169,16 +161,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/influencer-marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Influencer Marketing</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Leverage the power of influencers to expand your reach and build trust with your
+                                    target market.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -189,16 +180,14 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/affiliate-marketing.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Affiliate Marketing</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Boost your sales through strategic partnerships with high-performing affiliates.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -209,16 +198,15 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-single-box">
                         <div class="service-box-icon">
-                            <img src="assets/images/resource/servic-icon4.png" alt="icon">
+                            <img src="assets/images/resource/online reputation-management.png" alt="icon">
                         </div>
                         <div class="service-box-content">
                             <div class="service-box-title">
                                 <h3>Online Reputation Management</h3>
                             </div>
                             <div class="service-des">
-                                <p>Do you want to increase sales? You can use
-                                    search engine optimization and our SEO
-                                    Agency to achieve your goals.</p>
+                                <p>Protect and enhance your brand’s image with proactive online reputation management.
+                                </p>
                             </div>
                             <div class="service-btn">
                                 <a href="service-details.html">Read More<i class="bi bi-arrow-right"></i></a>
@@ -230,6 +218,65 @@
             </div>
         </div>
     </div>
+    
+    <input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
+						</div>
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
+					</div>
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+	</div>
 
 
 

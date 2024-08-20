@@ -24,10 +24,10 @@
 					<div class="col-lg-6 col-md-6">
 						<div class="team-details__top-right">
 							<div class="team-details__top-content">
-								<h3 class="team-details__top-name">Saifur Rahman</h3>
+								<h3 class="team-details__top-name">Bilal Muhammad Jaffer </h3>
 								<p class="team-details__top-title">Managing Director &amp; CEO</p>
-								<p class="team-details__top-text-1">I help my clients stand out and they help me grow.
-								</p>
+								<p class="team-details__top-text-1">Fueling my clients' success with innovation and
+									passion, turning their vision into reality.</p>
 								<div class="team-details-contact">
 									<h5 class="email">Email Address</h5>
 									<div class="gmail"><span>saifuruu@gmail.com</span></div>
@@ -56,13 +56,17 @@
 					<div class="col-lg-6">
 						<div class="team-details__bottom-left">
 							<h4 class="team-details__bottom-left-title">Personal Experience</h4>
-							<p class="team-details__bottom-left-text">When an unknown printer took a galley of type and
-								scrambled it to make a type specimen book. It has survived not only five centuries
-								architecto dolorem ipsum quia</p>
+							<p class="team-details__bottom-left-text">As an entrepreneur fueled by a passion for
+								innovation and success, I’ve devoted my career to crafting strategies that turn
+								businesses into powerful brands. My focus is on delivering results
+								that matter. My vision as a founder is clear: to empower brands to not only compete but
+								to lead and thrive in their markets. At Zatonix, I’m committed to being the driving
+								force behind your business's transformation, turning challenges into opportunities and
+								aspirations into achievements</p>
 						</div>
 					</div>
-					<div class="col-lg-6">
-						<div class="skill-proecess">
+					<div class="col-lg-6 ">
+						<div class="skill-proecess mt-5 pt-3">
 							<div class="prossess-ber-plugin">
 								<span class="prosses-bar-team">DIGITAL MARKETING</span>
 								<div id="bar1" class="barfiller">
@@ -91,7 +95,69 @@
 				</div>
 			</div>
 		</div>
+
+
+		<input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
+						</div>
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
+					</div>
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+	</div>
 	</section>
+
+
 
 	<!--==================================================-->
 	<!-- Start toptech breadcumb-area  -->
@@ -298,8 +364,8 @@
 
 
 
-<!-- footer start -->
-<?php include 'includes/footer.php' ?>
+	<!-- footer start -->
+	<?php include 'includes/footer.php' ?>
 	<!-- footer end -->
 
 

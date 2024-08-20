@@ -118,78 +118,64 @@
 	<!--End toptech contact area -->
 	<!--==================================================-->
 
-
-
-
-	<!--==================================================-->
-	<!--start Start toptech faq Area -->
-	<!--==================================================-->
-	<div class="faq-area" data-cues="zoomIn">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="toptech-section-title text-center">
-						<h1>How can we help you</h1>
-						<h1>right now?</h1>
-						<p>In order to make sure your website is user friendly and optimized for Google’s algorithm,
-							our on-site optimization experts clean up the code and copy.</p>
-					</div>
-				</div>
-				<div class="row faq-accordin">
-					<div class="col-lg-6">
-						<!-- Start Accordion -->
-						<div class="tab_container">
-							<div id="tab1" class="tab_content">
-								<ul class="accordion">
-									<li>
-										<a><span>How does SEO work?</span> <i class="bi bi-chevron-down"></i></a>
-										<p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan dolore. dummya
-											ccumsan lacus dummy Accumsan dolore. Quis ip Accumsan lacus Accumsan
-											lacdolore magna aliqua. dummya ccumsan lacus Accumsan dolore</p>
-									</li>
-									<li>
-										<a><span>What is SEO?</span> <i class="bi bi-chevron-down"></i></a>
-										<p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan dolore. dummya
-											ccumsan lacus dummy Accumsan dolore. Quis ip Accumsan lacus Accumsan
-											lacdolore magna aliqua. dummya ccumsan lacus Accumsan dolore</p>
-									</li>
-								</ul>
-							</div>
+	<input type="checkbox" id="toogle">
+	<label for="toogle" class="contact-us-button fw-bold ">
+		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
+		<span class="con">
+			Book A <br /> Consulation
+		</span>
+	</label>
+	<div class="popup">
+		<div class="popup-content ">
+			<label for="toogle" class="close">&times;
+			</label>
+			<!--CONTACT US FORM -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2 class="pop-up-main-heading" style="z-index: 1000;">Contact <b>Us</b></h2>
+						<p>We look forward to doing business with you. If you require any further information, feel free
+							to contact us</p>
+						<div class="sidebar-popup__info">
+							<a href="tel:18885577769" target="_blank" class="contact-info --icon">
+								<i class="fas fa-phone-volume pop-i"></i>
+								<span class="contact-info__text">
+									<b>Call Us</b><br>
+									1 (888) 557-7769
+								</span>
+							</a>
+							<span class="sidebar-popup__info-divider"></span>
+							<a href="mailto:info@martal.ca" target="_blank" class="contact-info --icon">
+								<i class="fas fa-envelope pop-i"></i>
+								<span class="contact-info__text">
+									<b>E-mail</b><br>
+									info@martal.ca
+								</span>
+							</a>
 						</div>
-						<!-- End Accordion -->
+						<button class="left-container-btn">
+							<span>Book a Consulation</span>
+							<br>
+							30 Minutes chat
+						</button>
 					</div>
-					<div class="col-lg-6">
-						<!-- Start Accordion -->
-						<div class="tab_container">
-							<div id="tab1" class="tab_content">
-								<ul class="accordion">
-									<li>
-										<a><span>How does SEO affect your sales?</span> <i
-												class="bi bi-chevron-down"></i></a>
-										<p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan dolore. dummya
-											ccumsan lacus dummy Accumsan dolore. Quis ip Accumsan lacus Accumsan
-											lacdolore magna aliqua. dummya ccumsan lacus Accumsan dolore</p>
-									</li>
-									<li>
-										<a><span>How to start SEO Campaign?</span> <i
-												class="bi bi-chevron-down"></i></a>
-										<p>Quis ip Accumsan lacus Accumsan lacdolore magna aliqua cumsan dolore. dummya
-											ccumsan lacus dummy Accumsan dolore. Quis ip Accumsan lacus Accumsan
-											lacdolore magna aliqua. dummya ccumsan lacus Accumsan dolore</p>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<!-- End Accordion -->
+					<div class="col-md-6 right-container">
+						<input type="" class="name text-dark" placeholder="Name">
+						<input type="email" class="mail text-dark" placeholder="Email*">
+						<input type="text" class="message" placeholder="Type Your Message Here">
+						<button class="right-container-btn">
+							Send Message
+						</button>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<!--==================================================-->
-	<!--End Start toptech faq Area -->
-	<!--==================================================-->
 
+	</div>
+	</div>
+	</div>
+	</div>
 
 
 

@@ -29,14 +29,14 @@
 	<!-- dark lite css -->
 	<link rel="stylesheet" href="assets/css/dark-lite.css" type="text/css">
 	<!-- scrollcue Style CSS -->
-	<link rel="stylesheet" href="assets/css/scrollCue.css" type="text/css" media="all">  
+	<link rel="stylesheet" href="assets/css/scrollCue.css" type="text/css" media="all">
 	<!-- Main Style CSS -->
-	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">  
+	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">
 	<!-- responsive CSS -->
 	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all">
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 	<link href="https://fonts.cdnfonts.com/css/clash-display" rel="stylesheet">
-                
-                
+
+
 </head>

@@ -41,9 +41,13 @@ document.addEventListener('DOMContentLoaded', function() {
         outputRevenue.textContent = `$${annualRevenue.toLocaleString()}`;
         outputSalesCycle.textContent = `${cycleLength} months`;
         outputRoi.textContent = `${roi}%`;
+
+
+
+        salesCycle.addEventListener("click", calculateOutput);
+        console.log(salesCycle.value)
     }
 
-    salesCycle.addEventListener("click", calculateOutput);
 
     // Add event listeners for all sliders
     appointments.addEventListener('input', calculateOutput);

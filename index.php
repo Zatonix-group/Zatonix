@@ -150,98 +150,113 @@
 			</div>
 			<div class="row service-box" data-cues="zoomIn">
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box">
-						<div class="service-icon">
-							<img src="assets/images/resource/SEO.jpg" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>DIGITAL MARKETING</h3>
+					<a href="digital-market.php">
+						<div class="single-service-box">
+							<div class="service-icon">
+								<img src="assets/images/resource/SEO.jpg" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Boost your brand's online presence and engage your target audience with cutting-edge
-									digital marketing strategies.</p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>DIGITAL MARKETING</h3>
+								</div>
+								<div class="service-des">
+									<p>Boost your brand's online presence and engage your target audience with
+										cutting-edge
+										digital marketing strategies.</p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box upper">
-						<div class="service-icon">
-							<img src="assets/images/resource/branding.png" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>BRANDING</h3>
+					<a href="branding.php">
+						<div class="single-service-box upper">
+							<div class="service-icon">
+								<img src="assets/images/resource/branding.png" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Define and strengthen your brand’s identity with a strategic approach to branding.
-								</p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>BRANDING</h3>
+								</div>
+								<div class="service-des">
+									<p>Define and strengthen your brand’s identity with a strategic approach to
+										branding.
+									</p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box upper">
-						<div class="service-icon">
-							<img src="assets/images/resource/video_production.png" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>VIDEO PRODUTION</h3>
+					<a href="creative-service.php">
+						<div class="single-service-box upper">
+							<div class="service-icon">
+								<img src="assets/images/resource/video_production.png" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Tell your story through high-quality video content that captivates your audience.</p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>VIDEO PRODUTION</h3>
+								</div>
+								<div class="service-des">
+									<p>Tell your story through high-quality video content that captivates your audience.
+									</p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box upper">
-						<div class="service-icon">
-							<img src="assets/images/resource/web_development.png" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>WEB-DEVELOPMENT AND DESIGN</h3>
+					<a href="web-development.php">
+						<div class="single-service-box upper">
+							<div class="service-icon">
+								<img src="assets/images/resource/web_development.png" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Create a seamless online experience with a website that’s as functional as it is
-									beautiful.</p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>WEB-DEVELOPMENT AND DESIGN</h3>
+								</div>
+								<div class="service-des">
+									<p>Create a seamless online experience with a website that’s as functional as it is
+										beautiful.</p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box upper">
-						<div class="service-icon">
-							<img src="assets/images/resource/social_media_management.png" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>SOCIAL MEDIA MANAGEMENT</h3>
+					<a href="social-media.php">
+						<div class="single-service-box upper">
+							<div class="service-icon">
+								<img src="assets/images/resource/social_media_management.png" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Manage your brand’s social presence with strategies that engage and grow your
-									audience</p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>SOCIAL MEDIA MANAGEMENT</h3>
+								</div>
+								<div class="service-des">
+									<p>Manage your brand’s social presence with strategies that engage and grow your
+										audience</p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<div class="single-service-box upper">
-						<div class="service-icon">
-							<img src="assets/images/resource/cgi_ads.png" alt="icon" width="100px">
-						</div>
-						<div class="service-content">
-							<div class="service-title">
-								<h3>CGI ADVERTISING</h3>
+					<a href="creative-service.php">
+						<div class="single-service-box upper">
+							<div class="service-icon">
+								<img src="assets/images/resource/cgi_ads.png" alt="icon" width="100px">
 							</div>
-							<div class="service-des">
-								<p>Immerse your audience in cutting-edge CGI ads that push creative boundaries. </p>
+							<div class="service-content">
+								<div class="service-title">
+									<h3>CGI ADVERTISING</h3>
+								</div>
+								<div class="service-des">
+									<p>Immerse your audience in cutting-edge CGI ads that push creative boundaries. </p>
+								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -484,113 +499,10 @@
 	<!--==================================================-->
 	<!-- start toptech testimonial section -->
 	<!--==================================================-->
-	<div class="testimonial-section" data-cues="zoomIn">
-		<div class="container">
-			<div class="row">
-				<div class="row align-items-center d-flex">
-					<div class="col-lg-6">
-						<div class="toptech-section-title text-left">
-							<h4>Testimonials</h4>
-							<h1>WHAT THEY SAID</h1>
-						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="toptech-desc">
-							<p>At Zatonix, we take pride in delivering exceptional services to our clients. Here’s what
-								some of our valued clients have to say about their experience working with us.</p>
-						</div>
-						<div class="testi-button">
 
-						</div>
-					</div>
-				</div>
-				<div class="row testi-box" data-cues="zoomIn">
-					<div class="col-lg-4  col-md-6">
-						<div class="single-testimonial-box">
-							<div class="testi-quote-icon">
-								<img src="assets/images/resource/quote-icon.png" alt="icon">
-							</div>
-							<div class="testimonial-box-description">
-								<p>Zatonix’s innovative marketing strategies have completely transformed our brand
-									presence. Their expertise in digital marketing has driven significant growth, and
-									we’re now a leader in our industry. A top-tier agency!
-								</p>
-							</div>
-							<div class="testimonial-autor">
-								<div class="testimonial-autor-title">
-									<h5>Emily Clark</h5>
-									<span>Facebook</span>
-									<div class="autor-rating">
-										<ul>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4  col-md-6">
-						<div class="single-testimonial-box">
-							<div class="testi-quote-icon">
-								<img src="assets/images/resource/quote-icon.png" alt="icon">
-							</div>
-							<div class="testimonial-box-description">
-								<p>Zatonix understood our market and delivered a campaign that resonated perfectly with
-									our audience. Their creativity and data-driven approach make them the best marketing
-									partner we’ve ever had</p>
-							</div>
-							<div class="testimonial-autor">
-								<div class="testimonial-autor-title">
-									<h5>Liam O’Connell</h5>
-									<span>Google</span>
-									<div class="autor-rating">
-										<ul>
-											<li><a class="rating-green" href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4  col-md-6">
-						<div class="single-testimonial-box">
-							<div class="testi-quote-icon">
-								<img src="assets/images/resource/quote-icon.png" alt="icon">
-							</div>
-							<div class="testimonial-box-description">
-								<p>Working with Zatonix was a game-changing experience. They brought a fresh perspective
-									to our campaigns and helped us reach new markets with impressive results. Highly
-									professional and effective.</p>
-							</div>
-							<div class="testimonial-autor">
-								<div class="testimonial-autor-title">
-									<h5>Sophia Chen</h5>
-									<span>twitter</span>
-									<div class="autor-rating">
-										<ul>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-											<li><a href="#"><i class="fas fa-star"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php include 'slider.php' ?>
+
+
 	<!--==================================================-->
 	<!-- End toptech testimonial section -->
 	<!--==================================================-->
@@ -603,7 +515,8 @@
 			<div class="row call-bg align-items-center">
 				<div class="col-lg-8 col-md-6">
 					<div class="call-action-title">
-						<h2>READY TO GET STARTED?</h2>
+						<h2 class="mt-5">READY TO GET STARTED?</h2>
+						<p class="mb-5 text-light fs-5">And Receive 40% Discount On First Project</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
