@@ -1,6 +1,6 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-  background: #10140D;
+  background: #12233f;
   float: left;
   min-height: 60px;
   padding: 4px 0 0;
@@ -21,8 +21,8 @@ a.meanmenu-reveal{display:none}
   border-top: 1px solid #ddd;
 }
 .mean-container .mean-nav ul li a {
-  background: #f8f8f8;
-  color: #232323;
+  background: #12233f;
+  color: #fff;
   display: block;
   float: left;
   font-size: 14px;
@@ -37,11 +37,12 @@ a.meanmenu-reveal{display:none}
   background: #262626;
 }
 .mean-container .mean-nav ul li li a {
-  border-top: 1px solid rgba(255, 255, 255, 0.25);
-  color: #232323;
+  border-top: 1px solid rgba(255, 255, 255, 0.32);
   font-size: 14px;
   font-weight: 500;
   opacity: 0.75;
+  color: rgba(250, 250, 250, 0.55);
+  background-color: #13275b;
   padding: 1em 10%;
   text-shadow: none !important;
   text-transform: capitalize;
@@ -52,9 +53,6 @@ a.meanmenu-reveal{display:none}
 .mean-container .mean-nav ul li li li a{width:70%;padding:1em 15%}
 .mean-container .mean-nav ul li li li li a{width:60%;padding:1em 20%}
 .mean-container .mean-nav ul li li li li li a{width:50%;padding:1em 25%}
-.mean-container .mean-nav ul li a:hover {
-  background: #f8f8f8 none repeat scroll 0 0;
-}
 .mean-container .mean-nav ul li a.mean-expand {
 
 	height: 15px;
@@ -65,12 +63,8 @@ a.meanmenu-reveal{display:none}
 	right: 0;
 	top: 0;
 	z-index: 2;
-	font-weight: 700;
 	border: 0 !important;
-	background: #F8F8F8;
-}
-.mean-container .mean-nav ul li a.mean-expand:hover {
-  background: #f8f8f8;
+	background: transparent;
 }
 .mean-container .mean-push{float:left;width:100%;padding:0;margin:0;clear:both}
 .mean-nav .wrapper{width:100%;padding:0;margin:0}
@@ -109,7 +103,8 @@ a.meanmenu-reveal{display:none}
   background: none;
 }
 .mean-container .mean-nav ul li {
-  background: #444;
+  background: #000244;
+  color: #fff;
 }
 .mean-container a.meanmenu-reveal {
   color: #fff;
@@ -122,7 +117,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Toptech";
+    content: "ZATONIX";
     font-size: 28px;
     font-weight: 600;
     left: 10px;

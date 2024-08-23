@@ -526,7 +526,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+</div> 
 	<!--==================================================-->
 	<!--End toptech call to action-->
 	<!--==================================================-->
@@ -535,7 +535,7 @@
 	<!-- Start toptech Hero Section  -->
 	<!--==================================================-->
 
-	<input type="checkbox" id="toogle">
+	<!-- <input type="checkbox" id="toogle">
 	<label for="toogle" class="contact-us-button fw-bold ">
 		<img src="assets/images/resource/chat.png" alt="" width="50px" class="mx-2">
 		<span class="con">
@@ -546,7 +546,6 @@
 		<div class="popup-content ">
 			<label for="toogle" class="close">&times;
 			</label>
-			<!--CONTACT US FORM -->
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
@@ -587,12 +586,55 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
-	</div>
-	</div>
-	</div>
-	</div>
+	<input type="checkbox" id="toggle">
+<label for="toggle" class="contact-us-button">
+    <img src="assets/images/resource/chat.png" alt="Chat Icon" width="40px">
+    <span>Book A <br> Consultation</span>
+</label>
+<div class="popup">
+    <div class="popup-content">
+        <label for="toggle" class="close">&times;</label>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="pop-up-main-heading">Contact <b>Us</b></h2>
+                    <p>If you require any further information, feel free to contact us.</p>
+                    <div class="sidebar-popup__info">
+                        <a href="tel:18885577769" class="contact-info --icon">
+                            <i class="fas fa-phone-volume pop-i"></i>
+                            <span class="contact-info__text">
+                                <b>Call Us</b><br>
+                                1 (888) 557-7769
+                            </span>
+                        </a>
+                        <span class="sidebar-popup__info-divider"></span>
+                        <a href="mailto:info@martal.ca" class="contact-info --icon">
+                            <i class="fas fa-envelope pop-i"></i>
+                            <span class="contact-info__text">
+                                <b>E-mail</b><br>
+                                info@martal.ca
+                            </span>
+                        </a>
+                    </div>
+                    <button class="left-container-btn">
+                        <span>Book a Consultation</span><br>
+                        30 Minutes chat
+                    </button>
+                </div>
+                <div class="col-md-6 right-container">
+                    <input type="text" class="name" placeholder="Name">
+                    <input type="email" class="mail" placeholder="Email*">
+                    <textarea class="message" placeholder="Type Your Message Here"></textarea>
+                    <button class="right-container-btn">Send Message</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 
 	<!--==================================================-->
 	<!-- End toptech Hero Section  -->

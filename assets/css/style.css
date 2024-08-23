@@ -129,6 +129,9 @@ a.logo_img img.logo-light {
   display: none;
 }
 
+.sub-menu-style-two li{
+  color: white;
+}
 /* toptech Menu Css*/
 .toptech_nav_manu {
   background: #12233f;
@@ -4303,7 +4306,7 @@ label {
 
 /* Book A Consolation*/
 
-input[type="checkbox"] {
+/* input[type="checkbox"] {
   display: none;
 }
 
@@ -4324,12 +4327,12 @@ input[type="checkbox"] {
 
 .popup {
   position: fixed;
-  bottom: 150px;
+  bottom: 120px;
   right: -100%;
   width: 900px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  height: 550px;
+  height: 500px;
   background-color: white;
   transition: right 0.6s ease-in-out;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
@@ -4471,7 +4474,135 @@ input[type="checkbox"]:checked ~ .popup {
   text-align: left;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   width: 50%;
+} */
+
+input[type="checkbox"] {
+  display: none;
 }
+
+.contact-us-button {
+  position: fixed;
+  bottom: 20%;
+  right: 0;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  z-index: 999;
+  font-size: 18px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  transition: right 0.3s ease-in-out;
+}
+
+.contact-us-button img {
+  margin-right: 10px;
+}
+
+.popup {
+  position: fixed;
+  bottom: 30px;
+  right: -100%;
+  width: 90%;
+  max-width: 900px;
+  height: 550px; /* Full screen height */
+  background-color: white;
+  transition: right 0.6s ease-in-out;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+input[type="checkbox"]:checked ~ .popup {
+  right: 0;
+}
+
+.popup-content {
+  padding: 20px;
+  height: 100%;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.close {
+  color: black;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  text-align: right;
+}
+
+.close:hover,
+.close:focus {
+  color: #007bff;
+}
+
+.sidebar-popup__info {
+  margin-top: auto;
+  line-height: 1.5;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.contact-info i {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.sidebar-popup__info-divider {
+  height: 1.5px;
+  width: 100%;
+  background: linear-gradient(90deg, #828282 20%, hsla(0, 0%, 100%, 0) 0);
+  margin: 28px 0;
+}
+
+.left-container-btn, .right-container-btn {
+  background-color: #007bff;
+  padding: 10px 20px;
+  margin: 20px 0;
+  border-radius: 30px;
+  color: white;
+  border: none;
+  font-size: 16px;
+  width: 100%;
+}
+
+.right-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-container input, .right-container textarea {
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+  resize: none;
+}
+
+.right-container input:focus, .right-container textarea:focus {
+  border-color: #007bff;
+}
+
+.message {
+  height: 100px;
+}
+
 
 /* Custom CSS */
 .contact-leave-message {

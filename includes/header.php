@@ -10,7 +10,7 @@
 <!--==================================================-->
 <!-- Start toptech Main Menu  -->
 <!--==================================================-->
-<div id="sticky-header" class="toptech_nav_manu">
+<div id="sticky-header " class="toptech_nav_manu d-md-none d-lg-block d-sm-none">
     <div class="container ">
         <div class="row align-items-center">
             <div class="col-lg-2">
@@ -218,7 +218,7 @@
 </div>
 
 <!-- toptech Mobile Menu  -->
-<div class="mobile-menu-area  sticky ">
+<div class="mobile-menu-area sticky d-md-block d-lg-none d-sm-block">
     <div class="mobile-menu">
         <div class="logo">
             <a class="logo_img" href="index.php" title="toptech">
@@ -231,7 +231,7 @@
         <nav class="toptech_menu">
             <ul class="nav_scroll">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="#">Services<span><i class="fas fa-chevron-down"></i></span></a>
+                <li><a href="#">Services<span><i class="fas fa-chevron-right mean-expand"></i></span></a>
                     <ul class="sub-menu">
                         <li class="sub-menu-style-two header-links-sub"><a href="digital-market.php">Digital
                                 Marketing</a><i class="fas fa-chevron-right"></i>
